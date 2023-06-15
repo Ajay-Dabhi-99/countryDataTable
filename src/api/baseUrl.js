@@ -1,0 +1,1 @@
+export const baseUrl = "https://api.countrystatecity.in/v1/";
